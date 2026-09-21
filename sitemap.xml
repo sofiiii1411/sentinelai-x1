@@ -6,7 +6,7 @@
 
   <!-- Login Page (Primary Entry Point) -->
   <url>
-    <loc>https://sentinelai-x.netlify.app/login.html</loc>
+    <loc>https://bms-sentinelai.netlify.app/login.html</loc>
     <lastmod>2026-09-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
@@ -14,7 +14,7 @@
 
   <!-- Home / Index -->
   <url>
-    <loc>https://sentinelai-x.netlify.app/</loc>
+    <loc>https://bms-sentinelai.netlify.app/</loc>
     <lastmod>2026-09-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
@@ -22,7 +22,7 @@
 
   <!-- Dashboard -->
   <url>
-    <loc>https://sentinelai-x.netlify.app/index.html</loc>
+    <loc>https://bms-sentinelai.netlify.app/index.html</loc>
     <lastmod>2026-09-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -30,7 +30,7 @@
 
   <!-- Reset Password -->
   <url>
-    <loc>https://sentinelai-x.netlify.app/reset-password.html</loc>
+    <loc>https://bms-sentinelai.netlify.app/reset-password.html</loc>
     <lastmod>2026-09-21</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>

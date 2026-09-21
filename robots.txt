@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://sentinelai-x.netlify.app/sitemap.xml
+Sitemap: https://bms-sentinelai.netlify.app/sitemap.xml
 
 # Block sensitive/server-side paths
 Disallow: /node_modules/
