@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://sentinelai-x.netlify.app/sitemap.xml
+
+# Block sensitive/server-side paths
+Disallow: /node_modules/
+Disallow: /.env
+Disallow: /netlify/functions/
+Disallow: /scratch/
